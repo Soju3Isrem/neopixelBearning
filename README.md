@@ -9,5 +9,5 @@ Neopixel rotation in the direction of inclination of the accelerometer
 -SparkFun SAMD21 Dev Breakout (https://www.sparkfun.com/products/13672)
 
 
-![Video](../master/vid/gpix.mp4) 
+[![ScreenShot](../master/vid/gpix.mp4)]
 
