@@ -3,6 +3,7 @@ import board
 import time
 import neopixel
 
+# Assign peripheral
 PIXEL_PIN = board.D2
 
 ORDER = neopixel.RGB  
